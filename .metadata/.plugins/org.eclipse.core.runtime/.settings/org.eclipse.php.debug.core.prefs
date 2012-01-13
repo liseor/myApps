@@ -1,0 +1,12 @@
+#Fri Jan 13 09:03:28 CST 2012
+org.eclipse.php.debug.corephp_debugger_id=org.eclipse.php.debug.core.xdebugDebugger
+org.eclipse.php.debug.coreinstalledPHPLocations=/usr/local/php/bin/php
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item1><mapper></mapper><server>Default PHP Web Server</server></item1></pathMappers>
+DefaultProjectBasePath=/drupal7
+org.eclipse.php.debug.coreinstalledPHPDebuggers=org.eclipse.php.debug.core.xdebugDebugger
+org.eclipse.php.debug.coreinstalledPHPInis=/usr/local/php/etc/php.ini
+eclipse.preferences.version=1
+org.eclipse.php.debug.corephp_versions=php5.3
+org.eclipse.php.debug.coreinstalledPHPNames=myPHP
+org.eclipse.php.debug.core.xdebug_idekey=ECLIPSE_DBGP_127.0.0.1
+org.eclipse.php.debug.coreinstalledPHPDefaults=org.eclipse.php.debug.core.xdebugDebugger\=myPHP

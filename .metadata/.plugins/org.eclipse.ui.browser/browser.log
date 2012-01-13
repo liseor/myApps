@@ -1,0 +1,2363 @@
+
+Jan 13, 2012 09:11:28.72 NEW SESSION
+Jan 13, 2012 09:11:28.72 Error: No running window found
+Jan 13, 2012 10:37:51.27 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:53:24.44 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:53:24.50 
+Jan 13, 2012 10:53:24.50 (npviewer.bin:11531): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 10:53:26.45 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:53:56.17 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:55:14.17 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:56:44.69 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:56:45.91 
+Jan 13, 2012 10:56:45.91 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:20.98 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:20.100 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:23.09 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:23.45 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:23.45 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.19 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.22 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.27 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.32 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.36 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:24.65 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:25.02 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:32.41 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:32.41 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 10:59:33.14 
+Jan 13, 2012 10:59:33.14 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:33.14 
+Jan 13, 2012 10:59:33.14 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:35.42 
+Jan 13, 2012 10:59:35.42 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:35.46 
+Jan 13, 2012 10:59:35.46 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:37.92 
+Jan 13, 2012 10:59:37.92 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:37.95 
+Jan 13, 2012 10:59:37.95 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:37.97 
+Jan 13, 2012 10:59:37.97 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.00 
+Jan 13, 2012 10:59:38.00 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.01 
+Jan 13, 2012 10:59:38.01 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.03 
+Jan 13, 2012 10:59:38.03 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.04 
+Jan 13, 2012 10:59:38.04 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.07 
+Jan 13, 2012 10:59:38.07 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.08 
+Jan 13, 2012 10:59:38.08 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.09 
+Jan 13, 2012 10:59:38.09 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.10 
+Jan 13, 2012 10:59:38.10 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.14 
+Jan 13, 2012 10:59:38.14 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.15 
+Jan 13, 2012 10:59:38.15 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.16 
+Jan 13, 2012 10:59:38.16 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.42 
+Jan 13, 2012 10:59:38.42 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.87 
+Jan 13, 2012 10:59:38.87 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.89 
+Jan 13, 2012 10:59:38.89 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.92 
+Jan 13, 2012 10:59:38.92 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.92 
+Jan 13, 2012 10:59:38.92 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.94 
+Jan 13, 2012 10:59:38.94 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.94 
+Jan 13, 2012 10:59:38.94 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.95 
+Jan 13, 2012 10:59:38.95 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.97 
+Jan 13, 2012 10:59:38.97 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.97 
+Jan 13, 2012 10:59:38.97 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:38.98 
+Jan 13, 2012 10:59:38.98 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.01 
+Jan 13, 2012 10:59:39.01 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.01 
+Jan 13, 2012 10:59:39.01 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.02 
+Jan 13, 2012 10:59:39.02 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.04 
+Jan 13, 2012 10:59:39.04 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.04 
+Jan 13, 2012 10:59:39.04 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.05 
+Jan 13, 2012 10:59:39.05 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.07 
+Jan 13, 2012 10:59:39.07 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.07 
+Jan 13, 2012 10:59:39.07 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.09 
+Jan 13, 2012 10:59:39.09 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.09 
+Jan 13, 2012 10:59:39.09 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.10 
+Jan 13, 2012 10:59:39.10 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.10 
+Jan 13, 2012 10:59:39.10 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.12 
+Jan 13, 2012 10:59:39.12 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.12 
+Jan 13, 2012 10:59:39.12 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:39.12 
+Jan 13, 2012 10:59:39.12 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:41.17 
+Jan 13, 2012 10:59:41.17 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:41.30 
+Jan 13, 2012 10:59:41.30 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:41.42 
+Jan 13, 2012 10:59:41.42 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.18 
+Jan 13, 2012 10:59:42.18 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.18 
+Jan 13, 2012 10:59:42.18 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.19 
+Jan 13, 2012 10:59:42.19 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.21 
+Jan 13, 2012 10:59:42.21 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.21 
+Jan 13, 2012 10:59:42.21 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.23 
+Jan 13, 2012 10:59:42.23 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.23 
+Jan 13, 2012 10:59:42.23 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.26 
+Jan 13, 2012 10:59:42.26 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.26 
+Jan 13, 2012 10:59:42.26 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.29 
+Jan 13, 2012 10:59:42.29 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.29 
+Jan 13, 2012 10:59:42.29 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.31 
+Jan 13, 2012 10:59:42.31 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.31 
+Jan 13, 2012 10:59:42.31 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.33 
+Jan 13, 2012 10:59:42.33 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.34 
+Jan 13, 2012 10:59:42.34 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.36 
+Jan 13, 2012 10:59:42.36 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.36 
+Jan 13, 2012 10:59:42.36 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.38 
+Jan 13, 2012 10:59:42.38 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.38 
+Jan 13, 2012 10:59:42.38 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.41 
+Jan 13, 2012 10:59:42.41 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:42.41 
+Jan 13, 2012 10:59:42.41 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.83 
+Jan 13, 2012 10:59:43.83 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.84 
+Jan 13, 2012 10:59:43.84 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.85 
+Jan 13, 2012 10:59:43.85 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.85 
+Jan 13, 2012 10:59:43.85 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.86 
+Jan 13, 2012 10:59:43.86 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.86 
+Jan 13, 2012 10:59:43.86 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.88 
+Jan 13, 2012 10:59:43.88 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.88 
+Jan 13, 2012 10:59:43.88 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.90 
+Jan 13, 2012 10:59:43.90 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.90 
+Jan 13, 2012 10:59:43.90 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.91 
+Jan 13, 2012 10:59:43.91 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.92 
+Jan 13, 2012 10:59:43.92 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.93 
+Jan 13, 2012 10:59:43.93 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.95 
+Jan 13, 2012 10:59:43.95 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.96 
+Jan 13, 2012 10:59:43.96 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:43.97 
+Jan 13, 2012 10:59:43.97 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.68 
+Jan 13, 2012 10:59:45.68 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.69 
+Jan 13, 2012 10:59:45.69 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.70 
+Jan 13, 2012 10:59:45.70 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.72 
+Jan 13, 2012 10:59:45.72 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.73 
+Jan 13, 2012 10:59:45.73 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.74 
+Jan 13, 2012 10:59:45.74 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.74 
+Jan 13, 2012 10:59:45.75 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.76 
+Jan 13, 2012 10:59:45.76 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.77 
+Jan 13, 2012 10:59:45.77 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.78 
+Jan 13, 2012 10:59:45.78 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.82 
+Jan 13, 2012 10:59:45.82 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.84 
+Jan 13, 2012 10:59:45.84 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.86 
+Jan 13, 2012 10:59:45.86 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 10:59:45.88 
+Jan 13, 2012 10:59:45.88 (npviewer.bin:11531): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:00:07.19 *** NSPlugin Wrapper *** ERROR: NPP_Destroy() wait for reply: Connection reset by peer
+Jan 13, 2012 11:00:07.21 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.22 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.22 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.22 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.22 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.22 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:00:07.23 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 11:01:17.26 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:01:55.63 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:01:58.63 *** NSPlugin Wrapper *** WARNING: unhandled variable 18 in NPP_GetValue()
+Jan 13, 2012 11:02:11.85 
+Jan 13, 2012 11:02:11.86 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:02:11.86 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:02:28.12 
+Jan 13, 2012 11:02:28.12 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:02:37.96 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:02:53.62 
+Jan 13, 2012 11:02:53.62 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:03:16.03 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:16.22 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:16.23 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:16.24 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:19.51 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:20.19 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:20.20 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:20.21 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:20.22 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:20.38 
+Jan 13, 2012 11:03:20.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:20.75 
+Jan 13, 2012 11:03:20.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:20.80 
+Jan 13, 2012 11:03:20.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:20.88 
+Jan 13, 2012 11:03:20.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:20.96 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:21.01 
+Jan 13, 2012 11:03:21.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.09 
+Jan 13, 2012 11:03:21.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.17 
+Jan 13, 2012 11:03:21.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.22 
+Jan 13, 2012 11:03:21.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.29 
+Jan 13, 2012 11:03:21.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.30 
+Jan 13, 2012 11:03:21.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.30 
+Jan 13, 2012 11:03:21.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.35 
+Jan 13, 2012 11:03:21.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.51 
+Jan 13, 2012 11:03:21.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.53 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:21.59 
+Jan 13, 2012 11:03:21.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.67 
+Jan 13, 2012 11:03:21.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.78 
+Jan 13, 2012 11:03:21.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:21.80 
+Jan 13, 2012 11:03:21.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.02 
+Jan 13, 2012 11:03:22.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.05 
+Jan 13, 2012 11:03:22.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.19 
+Jan 13, 2012 11:03:22.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.22 
+Jan 13, 2012 11:03:22.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.26 
+Jan 13, 2012 11:03:22.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.27 
+Jan 13, 2012 11:03:22.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:22.100 
+Jan 13, 2012 11:03:22.100 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:23.26 
+Jan 13, 2012 11:03:23.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:23.75 
+Jan 13, 2012 11:03:23.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:25.05 
+Jan 13, 2012 11:03:25.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:25.50 
+Jan 13, 2012 11:03:25.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:25.51 
+Jan 13, 2012 11:03:25.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.48 
+Jan 13, 2012 11:03:28.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.51 
+Jan 13, 2012 11:03:28.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.55 
+Jan 13, 2012 11:03:28.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.75 
+Jan 13, 2012 11:03:28.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.80 
+Jan 13, 2012 11:03:28.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.84 
+Jan 13, 2012 11:03:28.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.93 
+Jan 13, 2012 11:03:28.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:28.97 
+Jan 13, 2012 11:03:28.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.02 
+Jan 13, 2012 11:03:29.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.05 
+Jan 13, 2012 11:03:29.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.31 
+Jan 13, 2012 11:03:29.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.51 
+Jan 13, 2012 11:03:29.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.60 
+Jan 13, 2012 11:03:29.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.76 
+Jan 13, 2012 11:03:29.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.81 
+Jan 13, 2012 11:03:29.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.89 
+Jan 13, 2012 11:03:29.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:29.98 
+Jan 13, 2012 11:03:29.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:30.02 
+Jan 13, 2012 11:03:30.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:30.05 
+Jan 13, 2012 11:03:30.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:35.87 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:36.93 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:37.18 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:37.20 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:37.21 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:37.68 
+Jan 13, 2012 11:03:37.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:37.68 
+Jan 13, 2012 11:03:37.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:37.82 
+Jan 13, 2012 11:03:37.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:37.83 
+Jan 13, 2012 11:03:37.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:38.35 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:39.49 
+Jan 13, 2012 11:03:39.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.45 
+Jan 13, 2012 11:03:41.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.46 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:41.54 
+Jan 13, 2012 11:03:41.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.54 
+Jan 13, 2012 11:03:41.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.57 
+Jan 13, 2012 11:03:41.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.57 
+Jan 13, 2012 11:03:41.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.58 
+Jan 13, 2012 11:03:41.58 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.63 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:03:41.79 
+Jan 13, 2012 11:03:41.79 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.81 
+Jan 13, 2012 11:03:41.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.88 
+Jan 13, 2012 11:03:41.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.89 
+Jan 13, 2012 11:03:41.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:41.91 
+Jan 13, 2012 11:03:41.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.01 
+Jan 13, 2012 11:03:42.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.09 
+Jan 13, 2012 11:03:42.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.13 
+Jan 13, 2012 11:03:42.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.13 
+Jan 13, 2012 11:03:42.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.17 
+Jan 13, 2012 11:03:42.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.21 
+Jan 13, 2012 11:03:42.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:42.35 
+Jan 13, 2012 11:03:42.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:43.12 
+Jan 13, 2012 11:03:43.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:43.12 
+Jan 13, 2012 11:03:43.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:43.15 
+Jan 13, 2012 11:03:43.15 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:43.19 
+Jan 13, 2012 11:03:43.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:44.73 
+Jan 13, 2012 11:03:44.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.36 
+Jan 13, 2012 11:03:45.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.40 
+Jan 13, 2012 11:03:45.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.43 
+Jan 13, 2012 11:03:45.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.56 
+Jan 13, 2012 11:03:45.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.60 
+Jan 13, 2012 11:03:45.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:45.73 
+Jan 13, 2012 11:03:45.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:46.40 
+Jan 13, 2012 11:03:46.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:46.60 
+Jan 13, 2012 11:03:46.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:46.90 
+Jan 13, 2012 11:03:46.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:47.06 
+Jan 13, 2012 11:03:47.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:47.10 
+Jan 13, 2012 11:03:47.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:47.23 
+Jan 13, 2012 11:03:47.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:51.00 
+Jan 13, 2012 11:03:51.00 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:51.47 
+Jan 13, 2012 11:03:51.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:51.57 
+Jan 13, 2012 11:03:51.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.01 
+Jan 13, 2012 11:03:54.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.03 
+Jan 13, 2012 11:03:54.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.03 
+Jan 13, 2012 11:03:54.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.06 
+Jan 13, 2012 11:03:54.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.06 
+Jan 13, 2012 11:03:54.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.14 
+Jan 13, 2012 11:03:54.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.14 
+Jan 13, 2012 11:03:54.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.19 
+Jan 13, 2012 11:03:54.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.23 
+Jan 13, 2012 11:03:54.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.25 
+Jan 13, 2012 11:03:54.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.26 
+Jan 13, 2012 11:03:54.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.28 
+Jan 13, 2012 11:03:54.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.29 
+Jan 13, 2012 11:03:54.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.32 
+Jan 13, 2012 11:03:54.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:54.56 
+Jan 13, 2012 11:03:54.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.06 
+Jan 13, 2012 11:03:55.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.62 
+Jan 13, 2012 11:03:55.62 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.66 
+Jan 13, 2012 11:03:55.66 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.67 
+Jan 13, 2012 11:03:55.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.69 
+Jan 13, 2012 11:03:55.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.74 
+Jan 13, 2012 11:03:55.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:55.76 
+Jan 13, 2012 11:03:55.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:56.06 
+Jan 13, 2012 11:03:56.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:56.73 
+Jan 13, 2012 11:03:56.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:57.06 
+Jan 13, 2012 11:03:57.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:57.23 
+Jan 13, 2012 11:03:57.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:57.39 
+Jan 13, 2012 11:03:57.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:57.43 
+Jan 13, 2012 11:03:57.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:57.56 
+Jan 13, 2012 11:03:57.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.05 
+Jan 13, 2012 11:03:58.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.10 
+Jan 13, 2012 11:03:58.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.67 
+Jan 13, 2012 11:03:58.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.68 
+Jan 13, 2012 11:03:58.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.71 
+Jan 13, 2012 11:03:58.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.75 
+Jan 13, 2012 11:03:58.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.76 
+Jan 13, 2012 11:03:58.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.81 
+Jan 13, 2012 11:03:58.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.83 
+Jan 13, 2012 11:03:58.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.84 
+Jan 13, 2012 11:03:58.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.87 
+Jan 13, 2012 11:03:58.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.90 
+Jan 13, 2012 11:03:58.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.92 
+Jan 13, 2012 11:03:58.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.92 
+Jan 13, 2012 11:03:58.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:58.96 
+Jan 13, 2012 11:03:58.96 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:59.25 
+Jan 13, 2012 11:03:59.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:03:59.28 
+Jan 13, 2012 11:03:59.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.08 
+Jan 13, 2012 11:04:00.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.10 
+Jan 13, 2012 11:04:00.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.10 
+Jan 13, 2012 11:04:00.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.13 
+Jan 13, 2012 11:04:00.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.13 
+Jan 13, 2012 11:04:00.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.20 
+Jan 13, 2012 11:04:00.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.23 
+Jan 13, 2012 11:04:00.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.27 
+Jan 13, 2012 11:04:00.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.31 
+Jan 13, 2012 11:04:00.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.35 
+Jan 13, 2012 11:04:00.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.39 
+Jan 13, 2012 11:04:00.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.42 
+Jan 13, 2012 11:04:00.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.43 
+Jan 13, 2012 11:04:00.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.48 
+Jan 13, 2012 11:04:00.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:00.48 
+Jan 13, 2012 11:04:00.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:01.40 
+Jan 13, 2012 11:04:01.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:02.69 
+Jan 13, 2012 11:04:02.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:02.73 
+Jan 13, 2012 11:04:02.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:02.82 
+Jan 13, 2012 11:04:02.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.43 
+Jan 13, 2012 11:04:05.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.51 
+Jan 13, 2012 11:04:05.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.52 
+Jan 13, 2012 11:04:05.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.55 
+Jan 13, 2012 11:04:05.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.76 
+Jan 13, 2012 11:04:05.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.80 
+Jan 13, 2012 11:04:05.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.84 
+Jan 13, 2012 11:04:05.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.89 
+Jan 13, 2012 11:04:05.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:05.98 
+Jan 13, 2012 11:04:05.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.01 
+Jan 13, 2012 11:04:06.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.06 
+Jan 13, 2012 11:04:06.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.26 
+Jan 13, 2012 11:04:06.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.31 
+Jan 13, 2012 11:04:06.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.52 
+Jan 13, 2012 11:04:06.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.56 
+Jan 13, 2012 11:04:06.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.76 
+Jan 13, 2012 11:04:06.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.85 
+Jan 13, 2012 11:04:06.85 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:06.89 
+Jan 13, 2012 11:04:06.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:07.54 
+Jan 13, 2012 11:04:07.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:07.81 
+Jan 13, 2012 11:04:07.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:08.29 
+Jan 13, 2012 11:04:08.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:09.96 
+Jan 13, 2012 11:04:09.96 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:09.98 
+Jan 13, 2012 11:04:09.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:04:09.99 
+Jan 13, 2012 11:04:09.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:15.54 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:22:16.64 
+Jan 13, 2012 11:22:16.64 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:22:17.65 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:22:17.73 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:22:18.43 
+Jan 13, 2012 11:22:18.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:18.92 
+Jan 13, 2012 11:22:18.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.01 
+Jan 13, 2012 11:22:19.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.02 
+Jan 13, 2012 11:22:19.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.03 
+Jan 13, 2012 11:22:19.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.04 
+Jan 13, 2012 11:22:19.04 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.05 
+Jan 13, 2012 11:22:19.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.06 
+Jan 13, 2012 11:22:19.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.08 
+Jan 13, 2012 11:22:19.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.09 
+Jan 13, 2012 11:22:19.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.11 
+Jan 13, 2012 11:22:19.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.13 
+Jan 13, 2012 11:22:19.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.14 
+Jan 13, 2012 11:22:19.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.16 
+Jan 13, 2012 11:22:19.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:19.17 
+Jan 13, 2012 11:22:19.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:20.28 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:22:20.94 
+Jan 13, 2012 11:22:20.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:21.18 
+Jan 13, 2012 11:22:21.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:21.73 
+Jan 13, 2012 11:22:21.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:21.84 
+Jan 13, 2012 11:22:21.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:21.92 
+Jan 13, 2012 11:22:21.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:22.17 
+Jan 13, 2012 11:22:22.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:22.22 
+Jan 13, 2012 11:22:22.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:22.42 
+Jan 13, 2012 11:22:22.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:22.67 
+Jan 13, 2012 11:22:22.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:30.65 
+Jan 13, 2012 11:22:30.65 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:30.65 
+Jan 13, 2012 11:22:30.65 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:32.02 
+Jan 13, 2012 11:22:32.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:32.03 
+Jan 13, 2012 11:22:32.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:32.04 
+Jan 13, 2012 11:22:32.04 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:38.94 
+Jan 13, 2012 11:22:38.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:38.94 
+Jan 13, 2012 11:22:38.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:43.17 
+Jan 13, 2012 11:22:43.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:43.17 
+Jan 13, 2012 11:22:43.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:43.32 
+Jan 13, 2012 11:22:43.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:22:43.33 
+Jan 13, 2012 11:22:43.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:23:10.98 
+Jan 13, 2012 11:23:10.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:23:10.99 
+Jan 13, 2012 11:23:10.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:23:19.89 
+Jan 13, 2012 11:23:19.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:23:19.90 
+Jan 13, 2012 11:23:19.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:06.82 
+Jan 13, 2012 11:24:06.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:06.83 
+Jan 13, 2012 11:24:06.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:08.39 
+Jan 13, 2012 11:24:08.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:08.44 
+Jan 13, 2012 11:24:08.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:08.51 
+Jan 13, 2012 11:24:08.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:08.51 
+Jan 13, 2012 11:24:08.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.21 
+Jan 13, 2012 11:24:41.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.21 
+Jan 13, 2012 11:24:41.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.23 
+Jan 13, 2012 11:24:41.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.23 
+Jan 13, 2012 11:24:41.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.24 
+Jan 13, 2012 11:24:41.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.24 
+Jan 13, 2012 11:24:41.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.25 
+Jan 13, 2012 11:24:41.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.25 
+Jan 13, 2012 11:24:41.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.26 
+Jan 13, 2012 11:24:41.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.27 
+Jan 13, 2012 11:24:41.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.28 
+Jan 13, 2012 11:24:41.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.29 
+Jan 13, 2012 11:24:41.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.30 
+Jan 13, 2012 11:24:41.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.30 
+Jan 13, 2012 11:24:41.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.32 
+Jan 13, 2012 11:24:41.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.32 
+Jan 13, 2012 11:24:41.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.33 
+Jan 13, 2012 11:24:41.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.33 
+Jan 13, 2012 11:24:41.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.35 
+Jan 13, 2012 11:24:41.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.35 
+Jan 13, 2012 11:24:41.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.37 
+Jan 13, 2012 11:24:41.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.39 
+Jan 13, 2012 11:24:41.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.41 
+Jan 13, 2012 11:24:41.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.41 
+Jan 13, 2012 11:24:41.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.42 
+Jan 13, 2012 11:24:41.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.43 
+Jan 13, 2012 11:24:41.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.44 
+Jan 13, 2012 11:24:41.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.44 
+Jan 13, 2012 11:24:41.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.46 
+Jan 13, 2012 11:24:41.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:24:41.46 
+Jan 13, 2012 11:24:41.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:25:13.39 
+Jan 13, 2012 11:25:13.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:25:13.39 
+Jan 13, 2012 11:25:13.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:25:20.30 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:25:21.55 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:39:08.54 
+Jan 13, 2012 11:39:08.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:39:08.55 
+Jan 13, 2012 11:39:08.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:40:16.92 
+Jan 13, 2012 11:40:16.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:40:16.92 
+Jan 13, 2012 11:40:16.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:42:16.36 
+Jan 13, 2012 11:42:16.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:42:16.37 
+Jan 13, 2012 11:42:16.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:42:16.38 
+Jan 13, 2012 11:42:16.38 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:47:08.84 
+Jan 13, 2012 11:47:08.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:47:08.85 
+Jan 13, 2012 11:47:08.85 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 11:47:24.44 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:47:24.51 
+Jan 13, 2012 11:47:24.51 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:47:29.73 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:47:30.34 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:48:15.50 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 11:48:15.51 
+Jan 13, 2012 11:48:15.51 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 11:55:29.37 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:29:15.37 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:29:40.99 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:35:58.74 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:36:00.10 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:24.65 
+Jan 13, 2012 12:37:24.65 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 12:37:24.66 
+Jan 13, 2012 12:37:24.66 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 12:37:51.67 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:52.08 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:52.13 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:52.20 
+Jan 13, 2012 12:37:52.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.21 
+Jan 13, 2012 12:37:52.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.23 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:52.43 
+Jan 13, 2012 12:37:52.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.48 
+Jan 13, 2012 12:37:52.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.59 
+Jan 13, 2012 12:37:52.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.60 
+Jan 13, 2012 12:37:52.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:52.67 
+Jan 13, 2012 12:37:52.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:53.10 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:53.11 
+Jan 13, 2012 12:37:53.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:53.11 
+Jan 13, 2012 12:37:53.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:53.48 
+Jan 13, 2012 12:37:53.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:54.43 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:55.06 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:55.09 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:55.51 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:37:56.100 
+Jan 13, 2012 12:37:56.100 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:57.03 
+Jan 13, 2012 12:37:57.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:37:59.53 
+Jan 13, 2012 12:37:59.53 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:02.12 
+Jan 13, 2012 12:38:02.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:02.53 
+Jan 13, 2012 12:38:02.53 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:02.66 
+Jan 13, 2012 12:38:02.66 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:02.73 
+Jan 13, 2012 12:38:02.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:02.76 
+Jan 13, 2012 12:38:02.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:03.44 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:03.46 
+Jan 13, 2012 12:38:03.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:03.50 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:03.53 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:03.57 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:03.63 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:03.83 
+Jan 13, 2012 12:38:03.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:03.86 
+Jan 13, 2012 12:38:03.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:04.03 
+Jan 13, 2012 12:38:04.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:04.54 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:05.44 
+Jan 13, 2012 12:38:05.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:09.99 
+Jan 13, 2012 12:38:09.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:10.16 
+Jan 13, 2012 12:38:10.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:10.65 
+Jan 13, 2012 12:38:10.65 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:10.73 
+Jan 13, 2012 12:38:10.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:11.47 
+Jan 13, 2012 12:38:11.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:16.59 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.03 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.12 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.48 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.52 
+Jan 13, 2012 12:38:17.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:17.62 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.76 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:17.78 
+Jan 13, 2012 12:38:17.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.14 
+Jan 13, 2012 12:38:18.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.63 
+Jan 13, 2012 12:38:18.63 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.63 
+Jan 13, 2012 12:38:18.63 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.70 
+Jan 13, 2012 12:38:18.70 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.72 
+Jan 13, 2012 12:38:18.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:18.72 
+Jan 13, 2012 12:38:18.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.10 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.11 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.11 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.12 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.12 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.13 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.14 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:19.24 
+Jan 13, 2012 12:38:19.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.25 
+Jan 13, 2012 12:38:19.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.40 
+Jan 13, 2012 12:38:19.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.67 
+Jan 13, 2012 12:38:19.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.84 
+Jan 13, 2012 12:38:19.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.92 
+Jan 13, 2012 12:38:19.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.95 
+Jan 13, 2012 12:38:19.96 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:19.96 
+Jan 13, 2012 12:38:19.96 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:20.49 
+Jan 13, 2012 12:38:20.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:20.49 
+Jan 13, 2012 12:38:20.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:20.77 
+Jan 13, 2012 12:38:20.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.37 
+Jan 13, 2012 12:38:21.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.67 
+Jan 13, 2012 12:38:21.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.71 
+Jan 13, 2012 12:38:21.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.76 
+Jan 13, 2012 12:38:21.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.89 
+Jan 13, 2012 12:38:21.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.92 
+Jan 13, 2012 12:38:21.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:21.96 
+Jan 13, 2012 12:38:21.96 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:22.20 
+Jan 13, 2012 12:38:22.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:22.66 
+Jan 13, 2012 12:38:22.66 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:27.12 
+Jan 13, 2012 12:38:27.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:28.16 
+Jan 13, 2012 12:38:28.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:28.95 
+Jan 13, 2012 12:38:28.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:28.99 
+Jan 13, 2012 12:38:28.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:29.12 
+Jan 13, 2012 12:38:29.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:29.16 
+Jan 13, 2012 12:38:29.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:31.64 
+Jan 13, 2012 12:38:31.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.24 
+Jan 13, 2012 12:38:32.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.25 
+Jan 13, 2012 12:38:32.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.26 
+Jan 13, 2012 12:38:32.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.29 
+Jan 13, 2012 12:38:32.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.29 
+Jan 13, 2012 12:38:32.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.30 
+Jan 13, 2012 12:38:32.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.32 
+Jan 13, 2012 12:38:32.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.36 
+Jan 13, 2012 12:38:32.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.43 
+Jan 13, 2012 12:38:32.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.46 
+Jan 13, 2012 12:38:32.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.49 
+Jan 13, 2012 12:38:32.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.52 
+Jan 13, 2012 12:38:32.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:32.76 
+Jan 13, 2012 12:38:32.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:33.31 
+Jan 13, 2012 12:38:33.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:33.39 
+Jan 13, 2012 12:38:33.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:38:53.76 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:38:53.77 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:39:44.83 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:39:45.59 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:39:45.59 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:39:46.20 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:39:57.36 
+Jan 13, 2012 12:39:57.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:06.51 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:10.38 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:10.62 
+Jan 13, 2012 12:40:10.62 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:10.65 
+Jan 13, 2012 12:40:10.65 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:10.82 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:11.30 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:11.49 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:19.21 
+Jan 13, 2012 12:40:19.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:19.73 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:20.02 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:20.27 
+Jan 13, 2012 12:40:20.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:20.27 
+Jan 13, 2012 12:40:20.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:20.28 
+Jan 13, 2012 12:40:20.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.44 
+Jan 13, 2012 12:40:25.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.44 
+Jan 13, 2012 12:40:25.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.48 
+Jan 13, 2012 12:40:25.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.52 
+Jan 13, 2012 12:40:25.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.56 
+Jan 13, 2012 12:40:25.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.68 
+Jan 13, 2012 12:40:25.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.68 
+Jan 13, 2012 12:40:25.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.72 
+Jan 13, 2012 12:40:25.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.72 
+Jan 13, 2012 12:40:25.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:25.97 
+Jan 13, 2012 12:40:25.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:26.05 
+Jan 13, 2012 12:40:26.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:26.23 
+Jan 13, 2012 12:40:26.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:26.39 
+Jan 13, 2012 12:40:26.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:26.49 
+Jan 13, 2012 12:40:26.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.06 
+Jan 13, 2012 12:40:27.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.16 
+Jan 13, 2012 12:40:27.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.24 
+Jan 13, 2012 12:40:27.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.52 
+Jan 13, 2012 12:40:27.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.93 
+Jan 13, 2012 12:40:27.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.93 
+Jan 13, 2012 12:40:27.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.95 
+Jan 13, 2012 12:40:27.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:27.97 
+Jan 13, 2012 12:40:27.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.10 
+Jan 13, 2012 12:40:28.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.11 
+Jan 13, 2012 12:40:28.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.20 
+Jan 13, 2012 12:40:28.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.24 
+Jan 13, 2012 12:40:28.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.24 
+Jan 13, 2012 12:40:28.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.30 
+Jan 13, 2012 12:40:28.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.42 
+Jan 13, 2012 12:40:28.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.49 
+Jan 13, 2012 12:40:28.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.56 
+Jan 13, 2012 12:40:28.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.60 
+Jan 13, 2012 12:40:28.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.68 
+Jan 13, 2012 12:40:28.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:28.82 
+Jan 13, 2012 12:40:28.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:29.36 
+Jan 13, 2012 12:40:29.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:29.51 
+Jan 13, 2012 12:40:29.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:29.73 
+Jan 13, 2012 12:40:29.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:29.78 
+Jan 13, 2012 12:40:29.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:29.86 
+Jan 13, 2012 12:40:29.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.87 
+Jan 13, 2012 12:40:30.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.89 
+Jan 13, 2012 12:40:30.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.91 
+Jan 13, 2012 12:40:30.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.92 
+Jan 13, 2012 12:40:30.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.94 
+Jan 13, 2012 12:40:30.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.95 
+Jan 13, 2012 12:40:30.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:30.96 
+Jan 13, 2012 12:40:30.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.01 
+Jan 13, 2012 12:40:31.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.06 
+Jan 13, 2012 12:40:31.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.07 
+Jan 13, 2012 12:40:31.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.19 
+Jan 13, 2012 12:40:31.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.64 
+Jan 13, 2012 12:40:31.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.69 
+Jan 13, 2012 12:40:31.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.69 
+Jan 13, 2012 12:40:31.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.71 
+Jan 13, 2012 12:40:31.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.73 
+Jan 13, 2012 12:40:31.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.73 
+Jan 13, 2012 12:40:31.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.74 
+Jan 13, 2012 12:40:31.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.75 
+Jan 13, 2012 12:40:31.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.77 
+Jan 13, 2012 12:40:31.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.79 
+Jan 13, 2012 12:40:31.79 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.82 
+Jan 13, 2012 12:40:31.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.83 
+Jan 13, 2012 12:40:31.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.87 
+Jan 13, 2012 12:40:31.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.87 
+Jan 13, 2012 12:40:31.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:31.89 
+Jan 13, 2012 12:40:31.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.13 
+Jan 13, 2012 12:40:32.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.14 
+Jan 13, 2012 12:40:32.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.14 
+Jan 13, 2012 12:40:32.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.16 
+Jan 13, 2012 12:40:32.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.16 
+Jan 13, 2012 12:40:32.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.18 
+Jan 13, 2012 12:40:32.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.22 
+Jan 13, 2012 12:40:32.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.22 
+Jan 13, 2012 12:40:32.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.24 
+Jan 13, 2012 12:40:32.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.24 
+Jan 13, 2012 12:40:32.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.26 
+Jan 13, 2012 12:40:32.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.28 
+Jan 13, 2012 12:40:32.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.30 
+Jan 13, 2012 12:40:32.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.31 
+Jan 13, 2012 12:40:32.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.33 
+Jan 13, 2012 12:40:32.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.34 
+Jan 13, 2012 12:40:32.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.47 
+Jan 13, 2012 12:40:32.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.47 
+Jan 13, 2012 12:40:32.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.89 
+Jan 13, 2012 12:40:32.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:32.94 
+Jan 13, 2012 12:40:32.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.24 
+Jan 13, 2012 12:40:33.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.28 
+Jan 13, 2012 12:40:33.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.30 
+Jan 13, 2012 12:40:33.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.32 
+Jan 13, 2012 12:40:33.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.32 
+Jan 13, 2012 12:40:33.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.34 
+Jan 13, 2012 12:40:33.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.34 
+Jan 13, 2012 12:40:33.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.36 
+Jan 13, 2012 12:40:33.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.37 
+Jan 13, 2012 12:40:33.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.38 
+Jan 13, 2012 12:40:33.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.39 
+Jan 13, 2012 12:40:33.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.42 
+Jan 13, 2012 12:40:33.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.42 
+Jan 13, 2012 12:40:33.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.47 
+Jan 13, 2012 12:40:33.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.48 
+Jan 13, 2012 12:40:33.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.50 
+Jan 13, 2012 12:40:33.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.50 
+Jan 13, 2012 12:40:33.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.53 
+Jan 13, 2012 12:40:33.53 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.53 
+Jan 13, 2012 12:40:33.53 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.89 
+Jan 13, 2012 12:40:33.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.92 
+Jan 13, 2012 12:40:33.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.93 
+Jan 13, 2012 12:40:33.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:33.93 
+Jan 13, 2012 12:40:33.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.01 
+Jan 13, 2012 12:40:34.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.01 
+Jan 13, 2012 12:40:34.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.03 
+Jan 13, 2012 12:40:34.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.03 
+Jan 13, 2012 12:40:34.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.05 
+Jan 13, 2012 12:40:34.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.05 
+Jan 13, 2012 12:40:34.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.07 
+Jan 13, 2012 12:40:34.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.08 
+Jan 13, 2012 12:40:34.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.10 
+Jan 13, 2012 12:40:34.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.10 
+Jan 13, 2012 12:40:34.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.12 
+Jan 13, 2012 12:40:34.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.12 
+Jan 13, 2012 12:40:34.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.14 
+Jan 13, 2012 12:40:34.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.14 
+Jan 13, 2012 12:40:34.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.17 
+Jan 13, 2012 12:40:34.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.17 
+Jan 13, 2012 12:40:34.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.19 
+Jan 13, 2012 12:40:34.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.20 
+Jan 13, 2012 12:40:34.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.27 
+Jan 13, 2012 12:40:34.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.35 
+Jan 13, 2012 12:40:34.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.35 
+Jan 13, 2012 12:40:34.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.41 
+Jan 13, 2012 12:40:34.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.41 
+Jan 13, 2012 12:40:34.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.43 
+Jan 13, 2012 12:40:34.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.44 
+Jan 13, 2012 12:40:34.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.46 
+Jan 13, 2012 12:40:34.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.46 
+Jan 13, 2012 12:40:34.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.48 
+Jan 13, 2012 12:40:34.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.48 
+Jan 13, 2012 12:40:34.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.49 
+Jan 13, 2012 12:40:34.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.49 
+Jan 13, 2012 12:40:34.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.51 
+Jan 13, 2012 12:40:34.51 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.52 
+Jan 13, 2012 12:40:34.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.54 
+Jan 13, 2012 12:40:34.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.54 
+Jan 13, 2012 12:40:34.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.56 
+Jan 13, 2012 12:40:34.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.56 
+Jan 13, 2012 12:40:34.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.59 
+Jan 13, 2012 12:40:34.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.59 
+Jan 13, 2012 12:40:34.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.70 
+Jan 13, 2012 12:40:34.70 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.75 
+Jan 13, 2012 12:40:34.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.77 
+Jan 13, 2012 12:40:34.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:34.82 
+Jan 13, 2012 12:40:34.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.56 
+Jan 13, 2012 12:40:35.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.63 
+Jan 13, 2012 12:40:35.63 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.64 
+Jan 13, 2012 12:40:35.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.64 
+Jan 13, 2012 12:40:35.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.69 
+Jan 13, 2012 12:40:35.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.73 
+Jan 13, 2012 12:40:35.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.83 
+Jan 13, 2012 12:40:35.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.93 
+Jan 13, 2012 12:40:35.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.93 
+Jan 13, 2012 12:40:35.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.98 
+Jan 13, 2012 12:40:35.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:35.98 
+Jan 13, 2012 12:40:35.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:36.01 
+Jan 13, 2012 12:40:36.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:36.18 
+Jan 13, 2012 12:40:36.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:36.25 
+Jan 13, 2012 12:40:36.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:36.33 
+Jan 13, 2012 12:40:36.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:37.45 
+Jan 13, 2012 12:40:37.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.02 
+Jan 13, 2012 12:40:38.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.02 
+Jan 13, 2012 12:40:38.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.07 
+Jan 13, 2012 12:40:38.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.07 
+Jan 13, 2012 12:40:38.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.17 
+Jan 13, 2012 12:40:38.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.18 
+Jan 13, 2012 12:40:38.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.19 
+Jan 13, 2012 12:40:38.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.19 
+Jan 13, 2012 12:40:38.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.28 
+Jan 13, 2012 12:40:38.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.28 
+Jan 13, 2012 12:40:38.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.30 
+Jan 13, 2012 12:40:38.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.34 
+Jan 13, 2012 12:40:38.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.38 
+Jan 13, 2012 12:40:38.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.38 
+Jan 13, 2012 12:40:38.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.38 
+Jan 13, 2012 12:40:38.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.42 
+Jan 13, 2012 12:40:38.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.42 
+Jan 13, 2012 12:40:38.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.46 
+Jan 13, 2012 12:40:38.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.46 
+Jan 13, 2012 12:40:38.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.48 
+Jan 13, 2012 12:40:38.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:38.48 
+Jan 13, 2012 12:40:38.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:39.50 
+Jan 13, 2012 12:40:39.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:39.52 
+Jan 13, 2012 12:40:39.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:39.71 
+Jan 13, 2012 12:40:39.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:39.74 
+Jan 13, 2012 12:40:39.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:40.84 
+Jan 13, 2012 12:40:40.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:40.84 
+Jan 13, 2012 12:40:40.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:49.73 
+Jan 13, 2012 12:40:49.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:49.74 
+Jan 13, 2012 12:40:49.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:49.74 
+Jan 13, 2012 12:40:49.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:50.88 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:51.77 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:52.47 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:40:52.61 
+Jan 13, 2012 12:40:52.61 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:52.100 
+Jan 13, 2012 12:40:53.00 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:40:53.26 
+Jan 13, 2012 12:40:53.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:06.73 
+Jan 13, 2012 12:42:06.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:06.74 
+Jan 13, 2012 12:42:06.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:06.75 
+Jan 13, 2012 12:42:06.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:06.75 
+Jan 13, 2012 12:42:06.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:13.12 
+Jan 13, 2012 12:42:13.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:13.12 
+Jan 13, 2012 12:42:13.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:13.16 
+Jan 13, 2012 12:42:13.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:15.08 
+Jan 13, 2012 12:42:15.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:19.77 
+Jan 13, 2012 12:42:19.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:19.78 
+Jan 13, 2012 12:42:19.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:19.83 
+Jan 13, 2012 12:42:19.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:23.70 
+Jan 13, 2012 12:42:23.70 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:24.86 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:42:25.60 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:42:26.13 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:42:27.67 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:42:27.89 
+Jan 13, 2012 12:42:27.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:34.87 
+Jan 13, 2012 12:42:34.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:34.95 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:42:35.50 
+Jan 13, 2012 12:42:35.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:40.19 
+Jan 13, 2012 12:42:40.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:45.06 
+Jan 13, 2012 12:42:45.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:45.28 
+Jan 13, 2012 12:42:45.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:45.32 
+Jan 13, 2012 12:42:45.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:45.36 
+Jan 13, 2012 12:42:45.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:48.55 
+Jan 13, 2012 12:42:48.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:42:55.81 
+Jan 13, 2012 12:42:55.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:43:00.97 
+Jan 13, 2012 12:43:00.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:43:26.56 
+Jan 13, 2012 12:43:26.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:43:37.22 
+Jan 13, 2012 12:43:37.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:43:48.05 
+Jan 13, 2012 12:43:48.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:05.40 
+Jan 13, 2012 12:44:05.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:05.41 
+Jan 13, 2012 12:44:05.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:05.43 
+Jan 13, 2012 12:44:05.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:05.46 
+Jan 13, 2012 12:44:05.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:05.47 
+Jan 13, 2012 12:44:05.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.71 
+Jan 13, 2012 12:44:06.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.73 
+Jan 13, 2012 12:44:06.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.75 
+Jan 13, 2012 12:44:06.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.77 
+Jan 13, 2012 12:44:06.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.79 
+Jan 13, 2012 12:44:06.79 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.80 
+Jan 13, 2012 12:44:06.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.82 
+Jan 13, 2012 12:44:06.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.85 
+Jan 13, 2012 12:44:06.85 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.89 
+Jan 13, 2012 12:44:06.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.90 
+Jan 13, 2012 12:44:06.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:06.92 
+Jan 13, 2012 12:44:06.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.23 
+Jan 13, 2012 12:44:07.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.24 
+Jan 13, 2012 12:44:07.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.26 
+Jan 13, 2012 12:44:07.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.28 
+Jan 13, 2012 12:44:07.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.29 
+Jan 13, 2012 12:44:07.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.31 
+Jan 13, 2012 12:44:07.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.33 
+Jan 13, 2012 12:44:07.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.33 
+Jan 13, 2012 12:44:07.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.34 
+Jan 13, 2012 12:44:07.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.36 
+Jan 13, 2012 12:44:07.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:07.37 
+Jan 13, 2012 12:44:07.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:13.92 
+Jan 13, 2012 12:44:13.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:13.95 
+Jan 13, 2012 12:44:13.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:14.39 
+Jan 13, 2012 12:44:14.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:14.40 
+Jan 13, 2012 12:44:14.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:19.27 
+Jan 13, 2012 12:44:19.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:19.43 
+Jan 13, 2012 12:44:19.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:19.50 
+Jan 13, 2012 12:44:19.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.03 
+Jan 13, 2012 12:44:21.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.05 
+Jan 13, 2012 12:44:21.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.08 
+Jan 13, 2012 12:44:21.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.12 
+Jan 13, 2012 12:44:21.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.13 
+Jan 13, 2012 12:44:21.13 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.14 
+Jan 13, 2012 12:44:21.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.16 
+Jan 13, 2012 12:44:21.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.18 
+Jan 13, 2012 12:44:21.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.19 
+Jan 13, 2012 12:44:21.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.21 
+Jan 13, 2012 12:44:21.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.23 
+Jan 13, 2012 12:44:21.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:21.24 
+Jan 13, 2012 12:44:21.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.01 
+Jan 13, 2012 12:44:31.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.03 
+Jan 13, 2012 12:44:31.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.05 
+Jan 13, 2012 12:44:31.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.06 
+Jan 13, 2012 12:44:31.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.07 
+Jan 13, 2012 12:44:31.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.09 
+Jan 13, 2012 12:44:31.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.11 
+Jan 13, 2012 12:44:31.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.12 
+Jan 13, 2012 12:44:31.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.14 
+Jan 13, 2012 12:44:31.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.15 
+Jan 13, 2012 12:44:31.15 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:31.17 
+Jan 13, 2012 12:44:31.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:40.73 
+Jan 13, 2012 12:44:40.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:44.44 
+Jan 13, 2012 12:44:44.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:46.52 
+Jan 13, 2012 12:44:46.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:48.44 
+Jan 13, 2012 12:44:48.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:49.73 
+Jan 13, 2012 12:44:49.73 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:51.15 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:44:51.62 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:44:51.86 
+Jan 13, 2012 12:44:51.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:51.95 
+Jan 13, 2012 12:44:51.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:52.42 
+Jan 13, 2012 12:44:52.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:52.44 
+Jan 13, 2012 12:44:52.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:52.70 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:44:52.88 
+Jan 13, 2012 12:44:52.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:52.90 
+Jan 13, 2012 12:44:52.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:52.99 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:44:53.54 
+Jan 13, 2012 12:44:53.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:44:53.54 
+Jan 13, 2012 12:44:53.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:25.68 
+Jan 13, 2012 12:45:25.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:25.69 
+Jan 13, 2012 12:45:25.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:25.81 
+Jan 13, 2012 12:45:25.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:26.97 
+Jan 13, 2012 12:45:26.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:27.09 
+Jan 13, 2012 12:45:27.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:27.24 
+Jan 13, 2012 12:45:27.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:27.55 
+Jan 13, 2012 12:45:27.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:28.76 
+Jan 13, 2012 12:45:28.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:28.88 
+Jan 13, 2012 12:45:28.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:30.11 
+Jan 13, 2012 12:45:30.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:30.40 
+Jan 13, 2012 12:45:30.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:31.49 
+Jan 13, 2012 12:45:31.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:31.75 
+Jan 13, 2012 12:45:31.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:32.06 
+Jan 13, 2012 12:45:32.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:32.10 
+Jan 13, 2012 12:45:32.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:34.91 
+Jan 13, 2012 12:45:34.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:35.84 
+Jan 13, 2012 12:45:35.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:36.32 
+Jan 13, 2012 12:45:36.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:45:39.31 
+Jan 13, 2012 12:45:39.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:19.62 
+Jan 13, 2012 12:46:19.62 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:19.64 
+Jan 13, 2012 12:46:19.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:19.66 
+Jan 13, 2012 12:46:19.66 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:19.67 
+Jan 13, 2012 12:46:19.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.36 
+Jan 13, 2012 12:46:28.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.38 
+Jan 13, 2012 12:46:28.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.41 
+Jan 13, 2012 12:46:28.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.41 
+Jan 13, 2012 12:46:28.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.44 
+Jan 13, 2012 12:46:28.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.45 
+Jan 13, 2012 12:46:28.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.47 
+Jan 13, 2012 12:46:28.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.50 
+Jan 13, 2012 12:46:28.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.52 
+Jan 13, 2012 12:46:28.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.55 
+Jan 13, 2012 12:46:28.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.59 
+Jan 13, 2012 12:46:28.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.60 
+Jan 13, 2012 12:46:28.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.72 
+Jan 13, 2012 12:46:28.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.74 
+Jan 13, 2012 12:46:28.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.76 
+Jan 13, 2012 12:46:28.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.80 
+Jan 13, 2012 12:46:28.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.83 
+Jan 13, 2012 12:46:28.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.84 
+Jan 13, 2012 12:46:28.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.85 
+Jan 13, 2012 12:46:28.85 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.87 
+Jan 13, 2012 12:46:28.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.89 
+Jan 13, 2012 12:46:28.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:28.90 
+Jan 13, 2012 12:46:28.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:41.05 
+Jan 13, 2012 12:46:41.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:41.06 
+Jan 13, 2012 12:46:41.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:41.69 
+Jan 13, 2012 12:46:41.69 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:41.70 
+Jan 13, 2012 12:46:41.70 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:42.15 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:46:42.26 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:46:49.30 
+Jan 13, 2012 12:46:49.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:49.72 
+Jan 13, 2012 12:46:49.72 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:49.74 
+Jan 13, 2012 12:46:49.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:49.89 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:46:50.63 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:46:50.73 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:46:50.82 
+Jan 13, 2012 12:46:50.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:51.15 
+Jan 13, 2012 12:46:51.15 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:52.76 
+Jan 13, 2012 12:46:52.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:52.76 
+Jan 13, 2012 12:46:52.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:55.48 
+Jan 13, 2012 12:46:55.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:46:55.48 
+Jan 13, 2012 12:46:55.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.74 
+Jan 13, 2012 12:47:11.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.75 
+Jan 13, 2012 12:47:11.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.77 
+Jan 13, 2012 12:47:11.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.78 
+Jan 13, 2012 12:47:11.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.83 
+Jan 13, 2012 12:47:11.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.85 
+Jan 13, 2012 12:47:11.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.87 
+Jan 13, 2012 12:47:11.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.89 
+Jan 13, 2012 12:47:11.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.91 
+Jan 13, 2012 12:47:11.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.92 
+Jan 13, 2012 12:47:11.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.94 
+Jan 13, 2012 12:47:11.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.95 
+Jan 13, 2012 12:47:11.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.97 
+Jan 13, 2012 12:47:11.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:11.98 
+Jan 13, 2012 12:47:11.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.25 
+Jan 13, 2012 12:47:35.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.26 
+Jan 13, 2012 12:47:35.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.30 
+Jan 13, 2012 12:47:35.30 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.32 
+Jan 13, 2012 12:47:35.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.34 
+Jan 13, 2012 12:47:35.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.35 
+Jan 13, 2012 12:47:35.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.38 
+Jan 13, 2012 12:47:35.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.42 
+Jan 13, 2012 12:47:35.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.43 
+Jan 13, 2012 12:47:35.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:35.44 
+Jan 13, 2012 12:47:35.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:45.71 
+Jan 13, 2012 12:47:45.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:46.46 
+Jan 13, 2012 12:47:46.46 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:46.89 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:47:47.90 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:47:48.29 
+Jan 13, 2012 12:47:48.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:48.45 
+Jan 13, 2012 12:47:48.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:48.75 
+Jan 13, 2012 12:47:48.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:48.83 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:47:49.06 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:47:49.37 
+Jan 13, 2012 12:47:49.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:49.56 
+Jan 13, 2012 12:47:49.56 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:50.95 
+Jan 13, 2012 12:47:50.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:51.28 
+Jan 13, 2012 12:47:51.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:51.37 
+Jan 13, 2012 12:47:51.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:54.94 
+Jan 13, 2012 12:47:54.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:57.35 
+Jan 13, 2012 12:47:57.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:57.45 
+Jan 13, 2012 12:47:57.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:57.61 
+Jan 13, 2012 12:47:57.61 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:47:57.78 
+Jan 13, 2012 12:47:57.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:00.28 
+Jan 13, 2012 12:48:00.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:00.62 
+Jan 13, 2012 12:48:00.62 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:00.78 
+Jan 13, 2012 12:48:00.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:00.94 
+Jan 13, 2012 12:48:00.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:03.28 
+Jan 13, 2012 12:48:03.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:03.35 
+Jan 13, 2012 12:48:03.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:23.40 
+Jan 13, 2012 12:48:23.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:23.41 
+Jan 13, 2012 12:48:23.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:23.42 
+Jan 13, 2012 12:48:23.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:23.44 
+Jan 13, 2012 12:48:23.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:29.97 
+Jan 13, 2012 12:48:29.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:30.42 
+Jan 13, 2012 12:48:30.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:30.72 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:48:31.63 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:48:32.54 
+Jan 13, 2012 12:48:32.54 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:32.57 
+Jan 13, 2012 12:48:32.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:33.20 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:48:34.75 
+Jan 13, 2012 12:48:34.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:34.76 
+Jan 13, 2012 12:48:34.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:34.79 
+Jan 13, 2012 12:48:34.79 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:42.64 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:48:45.86 
+Jan 13, 2012 12:48:45.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:45.91 
+Jan 13, 2012 12:48:45.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:45.94 
+Jan 13, 2012 12:48:45.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:46.03 
+Jan 13, 2012 12:48:46.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:46.06 
+Jan 13, 2012 12:48:46.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:46.20 
+Jan 13, 2012 12:48:46.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:47.16 
+Jan 13, 2012 12:48:47.16 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:49.10 
+Jan 13, 2012 12:48:49.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:54.71 
+Jan 13, 2012 12:48:54.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:54.71 
+Jan 13, 2012 12:48:54.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:48:55.43 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:48:55.47 
+Jan 13, 2012 12:48:55.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:02.20 
+Jan 13, 2012 12:49:02.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:03.06 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:49:03.12 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:49:03.98 
+Jan 13, 2012 12:49:03.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:04.74 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:49:04.76 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:49:05.74 
+Jan 13, 2012 12:49:05.74 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:05.84 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:49:06.37 
+Jan 13, 2012 12:49:06.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:09.31 
+Jan 13, 2012 12:49:09.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:09.43 
+Jan 13, 2012 12:49:09.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:09.45 
+Jan 13, 2012 12:49:09.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:10.21 
+Jan 13, 2012 12:49:10.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:10.37 
+Jan 13, 2012 12:49:10.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:10.45 
+Jan 13, 2012 12:49:10.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:10.57 
+Jan 13, 2012 12:49:10.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:10.64 
+Jan 13, 2012 12:49:10.64 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:12.12 
+Jan 13, 2012 12:49:12.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:12.20 
+Jan 13, 2012 12:49:12.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:12.28 
+Jan 13, 2012 12:49:12.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:12.36 
+Jan 13, 2012 12:49:12.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:13.14 
+Jan 13, 2012 12:49:13.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:13.20 
+Jan 13, 2012 12:49:13.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:13.26 
+Jan 13, 2012 12:49:13.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:13.40 
+Jan 13, 2012 12:49:13.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:13.45 
+Jan 13, 2012 12:49:13.45 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:15.48 
+Jan 13, 2012 12:49:15.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:15.53 
+Jan 13, 2012 12:49:15.53 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:24.91 
+Jan 13, 2012 12:49:24.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:24.94 
+Jan 13, 2012 12:49:24.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:24.95 
+Jan 13, 2012 12:49:24.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:24.97 
+Jan 13, 2012 12:49:24.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:24.99 
+Jan 13, 2012 12:49:24.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.19 
+Jan 13, 2012 12:49:25.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.22 
+Jan 13, 2012 12:49:25.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.23 
+Jan 13, 2012 12:49:25.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.25 
+Jan 13, 2012 12:49:25.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.27 
+Jan 13, 2012 12:49:25.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.29 
+Jan 13, 2012 12:49:25.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.32 
+Jan 13, 2012 12:49:25.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.35 
+Jan 13, 2012 12:49:25.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.37 
+Jan 13, 2012 12:49:25.37 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:25.38 
+Jan 13, 2012 12:49:25.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.81 
+Jan 13, 2012 12:49:37.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.83 
+Jan 13, 2012 12:49:37.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.87 
+Jan 13, 2012 12:49:37.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.92 
+Jan 13, 2012 12:49:37.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.95 
+Jan 13, 2012 12:49:37.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.97 
+Jan 13, 2012 12:49:37.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:37.100 
+Jan 13, 2012 12:49:37.100 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:38.01 
+Jan 13, 2012 12:49:38.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:38.03 
+Jan 13, 2012 12:49:38.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:38.04 
+Jan 13, 2012 12:49:38.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:59.97 
+Jan 13, 2012 12:49:59.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:49:59.100 
+Jan 13, 2012 12:49:59.100 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.02 
+Jan 13, 2012 12:50:00.02 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.06 
+Jan 13, 2012 12:50:00.06 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.07 
+Jan 13, 2012 12:50:00.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.09 
+Jan 13, 2012 12:50:00.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.10 
+Jan 13, 2012 12:50:00.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.12 
+Jan 13, 2012 12:50:00.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.14 
+Jan 13, 2012 12:50:00.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:00.15 
+Jan 13, 2012 12:50:00.15 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.84 
+Jan 13, 2012 12:50:08.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.87 
+Jan 13, 2012 12:50:08.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.90 
+Jan 13, 2012 12:50:08.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.92 
+Jan 13, 2012 12:50:08.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.93 
+Jan 13, 2012 12:50:08.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.94 
+Jan 13, 2012 12:50:08.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:08.99 
+Jan 13, 2012 12:50:08.99 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:09.01 
+Jan 13, 2012 12:50:09.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:09.04 
+Jan 13, 2012 12:50:09.04 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:50:09.05 
+Jan 13, 2012 12:50:09.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:51:09.50 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:51:10.34 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:44.39 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:45.55 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:46.35 
+Jan 13, 2012 12:52:46.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:52:46.76 
+Jan 13, 2012 12:52:46.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:52:46.81 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:47.05 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:47.23 
+Jan 13, 2012 12:52:47.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:52:48.24 
+Jan 13, 2012 12:52:48.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:52:48.32 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:52:48.87 
+Jan 13, 2012 12:52:48.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:52:49.23 
+Jan 13, 2012 12:52:49.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:14.08 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:14.24 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:15.45 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:15.98 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:16.33 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:16.60 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:16.91 
+Jan 13, 2012 12:53:16.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:16.91 
+Jan 13, 2012 12:53:16.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:19.83 
+Jan 13, 2012 12:53:19.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:19.84 
+Jan 13, 2012 12:53:19.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:19.88 
+Jan 13, 2012 12:53:19.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:19.88 
+Jan 13, 2012 12:53:19.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:31.42 
+Jan 13, 2012 12:53:31.42 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:32.41 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:36.85 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:53:37.40 
+Jan 13, 2012 12:53:37.40 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.07 
+Jan 13, 2012 12:53:52.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.07 
+Jan 13, 2012 12:53:52.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.77 
+Jan 13, 2012 12:53:52.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.79 
+Jan 13, 2012 12:53:52.79 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.82 
+Jan 13, 2012 12:53:52.82 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.84 
+Jan 13, 2012 12:53:52.84 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.85 
+Jan 13, 2012 12:53:52.85 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.87 
+Jan 13, 2012 12:53:52.87 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.88 
+Jan 13, 2012 12:53:52.88 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.90 
+Jan 13, 2012 12:53:52.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.92 
+Jan 13, 2012 12:53:52.92 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.94 
+Jan 13, 2012 12:53:52.94 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:52.95 
+Jan 13, 2012 12:53:52.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.01 
+Jan 13, 2012 12:53:53.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.03 
+Jan 13, 2012 12:53:53.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.05 
+Jan 13, 2012 12:53:53.05 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.08 
+Jan 13, 2012 12:53:53.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.11 
+Jan 13, 2012 12:53:53.11 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.15 
+Jan 13, 2012 12:53:53.15 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.18 
+Jan 13, 2012 12:53:53.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.21 
+Jan 13, 2012 12:53:53.21 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.25 
+Jan 13, 2012 12:53:53.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:53.27 
+Jan 13, 2012 12:53:53.27 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:53:56.66 
+Jan 13, 2012 12:53:56.66 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:01.55 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:54:05.77 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:54:05.96 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:54:06.31 
+Jan 13, 2012 12:54:06.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:06.31 
+Jan 13, 2012 12:54:06.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:08.83 
+Jan 13, 2012 12:54:08.83 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.01 
+Jan 13, 2012 12:54:09.01 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.04 
+Jan 13, 2012 12:54:09.04 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.08 
+Jan 13, 2012 12:54:09.08 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.10 
+Jan 13, 2012 12:54:09.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.12 
+Jan 13, 2012 12:54:09.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.14 
+Jan 13, 2012 12:54:09.14 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.17 
+Jan 13, 2012 12:54:09.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.19 
+Jan 13, 2012 12:54:09.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.20 
+Jan 13, 2012 12:54:09.20 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.23 
+Jan 13, 2012 12:54:09.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.43 
+Jan 13, 2012 12:54:09.43 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.47 
+Jan 13, 2012 12:54:09.47 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.52 
+Jan 13, 2012 12:54:09.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.55 
+Jan 13, 2012 12:54:09.55 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.57 
+Jan 13, 2012 12:54:09.57 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.59 
+Jan 13, 2012 12:54:09.59 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.60 
+Jan 13, 2012 12:54:09.60 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.62 
+Jan 13, 2012 12:54:09.62 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.63 
+Jan 13, 2012 12:54:09.63 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.65 
+Jan 13, 2012 12:54:09.65 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:09.67 
+Jan 13, 2012 12:54:09.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.07 
+Jan 13, 2012 12:54:10.07 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.09 
+Jan 13, 2012 12:54:10.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.12 
+Jan 13, 2012 12:54:10.12 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.17 
+Jan 13, 2012 12:54:10.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.22 
+Jan 13, 2012 12:54:10.22 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.24 
+Jan 13, 2012 12:54:10.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.26 
+Jan 13, 2012 12:54:10.26 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.29 
+Jan 13, 2012 12:54:10.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.31 
+Jan 13, 2012 12:54:10.31 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.35 
+Jan 13, 2012 12:54:10.35 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.50 
+Jan 13, 2012 12:54:10.50 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:10.76 
+Jan 13, 2012 12:54:10.76 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:12.75 
+Jan 13, 2012 12:54:12.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:12.90 
+Jan 13, 2012 12:54:12.90 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:13.18 
+Jan 13, 2012 12:54:13.18 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:13.32 
+Jan 13, 2012 12:54:13.32 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:13.67 
+Jan 13, 2012 12:54:13.67 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:15.10 
+Jan 13, 2012 12:54:15.10 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:16.80 
+Jan 13, 2012 12:54:16.80 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:17.68 
+Jan 13, 2012 12:54:17.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:17.81 
+Jan 13, 2012 12:54:17.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:18.17 
+Jan 13, 2012 12:54:18.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.23 
+Jan 13, 2012 12:54:19.23 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.52 
+Jan 13, 2012 12:54:19.52 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.71 
+Jan 13, 2012 12:54:19.71 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.78 
+Jan 13, 2012 12:54:19.78 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.81 
+Jan 13, 2012 12:54:19.81 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.86 
+Jan 13, 2012 12:54:19.86 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.89 
+Jan 13, 2012 12:54:19.89 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.93 
+Jan 13, 2012 12:54:19.93 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.95 
+Jan 13, 2012 12:54:19.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.97 
+Jan 13, 2012 12:54:19.97 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:19.98 
+Jan 13, 2012 12:54:19.98 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.00 
+Jan 13, 2012 12:54:20.00 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.03 
+Jan 13, 2012 12:54:20.03 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.25 
+Jan 13, 2012 12:54:20.25 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.29 
+Jan 13, 2012 12:54:20.29 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.33 
+Jan 13, 2012 12:54:20.33 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.36 
+Jan 13, 2012 12:54:20.36 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.38 
+Jan 13, 2012 12:54:20.38 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.39 
+Jan 13, 2012 12:54:20.39 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.41 
+Jan 13, 2012 12:54:20.41 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.44 
+Jan 13, 2012 12:54:20.44 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.48 
+Jan 13, 2012 12:54:20.48 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.49 
+Jan 13, 2012 12:54:20.49 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:20.68 
+Jan 13, 2012 12:54:20.68 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:21.17 
+Jan 13, 2012 12:54:21.17 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:21.27 
+Jan 13, 2012 12:54:21.28 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:21.91 
+Jan 13, 2012 12:54:21.91 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:22.34 
+Jan 13, 2012 12:54:22.34 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:54:23.87 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:54:31.60 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 12:54:32.09 
+Jan 13, 2012 12:54:32.09 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:55:05.95 
+Jan 13, 2012 12:55:05.95 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:55:09.19 
+Jan 13, 2012 12:55:09.19 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:56:42.24 
+Jan 13, 2012 12:56:42.24 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 12:58:46.42 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 13:01:52.75 
+Jan 13, 2012 13:01:52.75 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 13:01:52.77 
+Jan 13, 2012 13:01:52.77 (npviewer.bin:12045): Gdk-WARNING **: XID collision, trouble ahead
+Jan 13, 2012 13:02:28.51 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 13:04:45.39 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 13:06:08.97 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 13:06:08.100 *** NSPlugin Viewer  *** WARNING: unhandled variable 18 (<unknown variable>) in NPN_GetValue()
+Jan 13, 2012 13:06:12.97 
+Jan 13, 2012 13:06:12.97 (npviewer.bin:12045): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Jan 13, 2012 13:06:20.09 *** NSPlugin Wrapper *** ERROR: NPP_Destroy() wait for reply: Connection reset by peer
+Jan 13, 2012 13:06:20.09 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.09 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.09 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.09 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.11 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.12 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.12 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.14 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.14 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.15 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.15 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.15 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.15 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.15 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe5c19cf0c0 is no longer valid!
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe5c19cf270 is no longer valid!
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.16 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:20.17 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1858):invoke_NPP_Destroy: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58cd75090 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58cd75090 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58cd75090 is no longer valid!
+Jan 13, 2012 13:06:21.30 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58cd75090 is no longer valid!
+Jan 13, 2012 13:06:21.34 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:06:21.34 *** NSPlugin Wrapper *** ERROR: NPObject 0x7fe58af88e90 is no longer valid!
+Jan 13, 2012 13:07:22.52 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:1927):invoke_NPP_SetWindow: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:07:22.52 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:2537):invoke_NPP_HandleEvent: assertion failed: (rpc_method_invoke_possible(plugin->connection))
+Jan 13, 2012 13:07:22.65 *** NSPlugin Wrapper *** WARNING:(../src/npw-wrapper.c:2537):invoke_NPP_HandleEvent: assertion failed: (rpc_method_invoke_possible(plugin->connection))
